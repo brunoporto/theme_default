@@ -1,0 +1,13 @@
+production:
+  google_client_id: ''
+  google_client_secret: ''
+staging:
+  google_client_id: ''
+  google_client_secret: ''
+development:
+  google_client_id: ''
+  google_client_secret: ''
+test:
+  google_client_id: ''
+  google_client_secret: ''
+
